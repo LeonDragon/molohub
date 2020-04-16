@@ -1,3 +1,4 @@
+**NOTE: This could be use to remote control the home assistant instance - Leon70119**
 ## **【中文简介】**
 
 ![img](README/xmolo-zx.png)
